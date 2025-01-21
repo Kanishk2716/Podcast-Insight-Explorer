@@ -1,0 +1,12 @@
+groq
+langchain
+langchain_community
+langchain_pinecone
+pydub
+tiktoken
+sentence-transformers
+pinecone-text
+langchain_groq
+streamlit
+ipykernel
+moviepy
